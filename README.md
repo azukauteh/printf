@@ -16,7 +16,7 @@ The `printf` project is a custom implementation of the `printf` function in C. I
 To use the `printf` function in your C program, include the `printf.h` header file:
 
 ```c
-#include "printf.h"
+#include "main.h"
 ```
 
 Then, you can call the `printf` function to output formatted text:
